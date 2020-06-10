@@ -1,0 +1,15 @@
+C:\Users\dariu\source\repos\FilmotekaCRUD\FilmotekaCRUD\bin\Debug\FilmotekaCRUD.exe.config
+C:\Users\dariu\source\repos\FilmotekaCRUD\FilmotekaCRUD\bin\Debug\FilmotekaCRUD.exe
+C:\Users\dariu\source\repos\FilmotekaCRUD\FilmotekaCRUD\bin\Debug\FilmotekaCRUD.pdb
+C:\Users\dariu\source\repos\FilmotekaCRUD\FilmotekaCRUD\obj\Debug\MainWindow.g.cs
+C:\Users\dariu\source\repos\FilmotekaCRUD\FilmotekaCRUD\obj\Debug\App.g.cs
+C:\Users\dariu\source\repos\FilmotekaCRUD\FilmotekaCRUD\obj\Debug\FilmotekaCRUD_MarkupCompile.cache
+C:\Users\dariu\source\repos\FilmotekaCRUD\FilmotekaCRUD\obj\Debug\FilmotekaCRUD_MarkupCompile.lref
+C:\Users\dariu\source\repos\FilmotekaCRUD\FilmotekaCRUD\obj\Debug\MainWindow.baml
+C:\Users\dariu\source\repos\FilmotekaCRUD\FilmotekaCRUD\obj\Debug\FilmotekaCRUD.g.resources
+C:\Users\dariu\source\repos\FilmotekaCRUD\FilmotekaCRUD\obj\Debug\FilmotekaCRUD.Properties.Resources.resources
+C:\Users\dariu\source\repos\FilmotekaCRUD\FilmotekaCRUD\obj\Debug\FilmotekaCRUD.csproj.GenerateResource.cache
+C:\Users\dariu\source\repos\FilmotekaCRUD\FilmotekaCRUD\obj\Debug\FilmotekaCRUD.csproj.CoreCompileInputs.cache
+C:\Users\dariu\source\repos\FilmotekaCRUD\FilmotekaCRUD\obj\Debug\FilmotekaCRUD.exe
+C:\Users\dariu\source\repos\FilmotekaCRUD\FilmotekaCRUD\obj\Debug\FilmotekaCRUD.pdb
+C:\Users\dariu\source\repos\FilmotekaCRUD\FilmotekaCRUD\obj\Debug\FilmotekaCRUD.csprojAssemblyReference.cache
